@@ -3,7 +3,6 @@
 🎓 A 3rd-year college student passionate about **technology & innovation**  
 💻 Skilled in **Python, Java, and JavaScript**  
 ⚙️ I love building applications that **solve real-world problems**  
-📱 Creator of **GabayKareer** – an app helping the community find work easily  
 🌐 Interested in **Web Development** (Frontend + Backend)  
 🤖 Exploring **AI technologies** for education and everyday life  
 
