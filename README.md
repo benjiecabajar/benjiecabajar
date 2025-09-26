@@ -54,6 +54,23 @@ A desktop application built with **Python, Tkinter, and CustomTkinter** that aut
 
 ---
 
+### **BLOX-BATTLE: 2-Player Minecraft-Themed Tetris**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat-square&logo=pygame&logoColor=white)
+
+A fun, interactive 2-player Tetris game with a **Minecraft-inspired theme**, built using **Python, Tkinter, CustomTkinter, and Pygame**. Features include:
+
+- 2-player local multiplayer
+- Minecraft-themed graphics and assets
+- Lobby with start countdown
+- Background music and sound effects
+- Smooth gameplay and responsive controls
+
+**🔗 [View on GitHub](https://github.com/benjiecabajar/python-tetris-battle)**  
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
