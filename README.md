@@ -67,7 +67,25 @@ A fun, interactive 2-player Tetris game with a **Minecraft-inspired theme**, bui
 - Background music and sound effects
 - Smooth gameplay and responsive controls
 
-**🔗 [View on GitHub](https://github.com/benjiecabajar/python-tetris-battle)**  
+**🔗 [View on GitHub](https://github.com/benjiecabajar/blox-battle)**  
+
+---
+
+### **Key Disabler**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-007ACC?style=flat-square&logo=python&logoColor=white)
+![Keyboard](https://img.shields.io/badge/Keyboard-000000?style=flat-square&logo=keyboard&logoColor=white)
+
+A Windows desktop application to **globally disable or enable keys** with a modern GUI. Features:
+
+- Disable/Enable specific keys
+- Disable Page Up / Page Down keys
+- Persistent key settings
+- Run on Windows startup
+- Hide window functionality
+
+**🔗 [View on GitHub](https://github.com/benjiecabajar/key-disabler)**  
 
 ---
 
