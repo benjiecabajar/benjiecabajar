@@ -36,15 +36,21 @@ Passionate about building digital solutions that bridge creativity and technolog
 
 ---
 
-## 📈 GitHub Analytics
+## 🖥 Projects
 
-<div align="center">
+### **AutoShutdown App**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=benjiecabajar&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=benjiecabajar&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=benjiecabajar&theme=radical&hide_border=true&layout=compact)
+A desktop application built with **Python, Tkinter, and CustomTkinter** that automatically shuts down your computer after a period of inactivity. Features include:
 
-</div>
+- PIN protection
+- Custom messages
+- Noise detection
+- Startup integration
+- Real-time activity tracking
+
+**🔗 [View on GitHub](https://github.com/benjiecabajar/pc-auto-shutdown-for-computer-cafe)**  
 
 ---
 
